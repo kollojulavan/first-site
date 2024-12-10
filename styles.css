@@ -1,0 +1,21 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.navbar{
+    width: auto;
+    height: 60px;
+    background-color: #333;
+}
+.logo img{
+    height: 30px;
+    width: auto;
+    margin-top: 15px;
+}
+.product a:before {
+    content: '+';
+    left: 20px;
+    position: absolute;
+    top: 4px;
+}
